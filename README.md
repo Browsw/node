@@ -1,0 +1,2 @@
+# node
+testnet for tea
